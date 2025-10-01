@@ -1,2 +1,17 @@
 # Blinkit_Sales_Analysis_Dashboard
-This Power BI dashboard analyzes a company’s financial performance using sample data sourced from a YouTube channel. It provides an interactive overview of key financial metrics and sales performance to support better insights and decision-making.
+
+This repository contains a Power BI dashboard analyzing Blinkit’s sales data. It provides insights into total sales, item categories, outlet sizes, and customer ratings to track business performance.
+
+🔑 Key Insights
+	•	Total Sales: $1.20M | Avg Sales: $141
+	•	Top Outlet: Supermarket Type 1 – $1.87M
+	•	Best Selling Categories: Fruits & Snacks ($0.18M each)
+	•	Outlet Size: High outlets lead with $507.9K sales
+	•	Tier 3 Locations generate the highest sales ($472.13K)
+
+🛠 Built With
+	•	Power BI (Data Visualization)
+	•	Power Query (Data Cleaning)
+	•	DAX (Data Modeling & Measures)
+
+
